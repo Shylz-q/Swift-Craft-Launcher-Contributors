@@ -70,6 +70,12 @@
     "url": "https://github.com/weichsel/ZIPFoundation",
     "avatar": "https://github.com/weichsel.png",
     "description": "Effortless ZIP Handling in Swift"
-  }
+  },
+  {
+    "name": "SJMCL TEAM",
+    "url": "https://mc.sjtu.cn/sjmcl",
+    "avatar": "https://mc.sjtu.cn/sjmcl/_next/static/media/Logo_128x128.0027c7a0.png",
+    "description": "Another open-source Minecraft launcher designed by SJTU Minecraft Club"
+  },
 ]
 
