@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Modrinth",
+    "url": "https://modrinth.com/",
+    "avatar": "https://cdn.modrinth.com/logo.svg",
+    "description": "Minecraft mod platform and modpack hosting service"
+  },
+  {
+    "name": "Fabric",
+    "url": "https://fabricmc.net/",
+    "avatar": "https://fabricmc.net/assets/logo.png",
+    "description": "Lightweight, experimental modding toolchain for Minecraft"
+  },
+  {
+    "name": "Quilt",
+    "url": "https://quiltmc.org/",
+    "avatar": "https://quiltmc.org/assets/img/logo.svg",
+    "description": "A mod loader for Minecraft that aims to be fast, secure, and flexible"
+  },
+  {
+    "name": "Neoforge",
+    "url": "https://neoforged.net/",
+    "avatar": "https://neoforged.net/assets/img/logo.png",
+    "description": "A community-driven fork of Minecraft Forge"
+  },
+  {
+    "name": "Minecraft Forge",
+    "url": "https://files.minecraftforge.net/",
+    "avatar": "https://files.minecraftforge.net/assets/img/logo.png",
+    "description": "Modding API for Minecraft"
+  },
+  {
+    "name": "GzipSwift",
+    "url": "https://github.com/1024jp/GzipSwift",
+    "avatar": "https://github.com/1024jp.png",
+    "description": "Swift framework for gzip compression/decompression"
+  },
+  {
+    "name": "NetworkImage",
+    "url": "https://github.com/gonzalezreal/NetworkImage",
+    "avatar": "https://github.com/gonzalezreal.png",
+    "description": "A SwiftUI view that displays images from the network"
+  },
+  {
+    "name": "Sparkle",
+    "url": "https://github.com/sparkle-project/Sparkle",
+    "avatar": "https://github.com/sparkle-project.png",
+    "description": "A software update framework for macOS applications"
+  },
+  {
+    "name": "swift-cmark",
+    "url": "https://github.com/swiftlang/swift-cmark",
+    "avatar": "https://github.com/swiftlang.png",
+    "description": "Swift bindings for the cmark CommonMark parsing library"
+  },
+  {
+    "name": "swift-collections",
+    "url": "https://github.com/apple/swift-collections",
+    "avatar": "https://github.com/apple.png",
+    "description": "Commonly used data structures for Swift"
+  },
+  {
+    "name": "swift-markdown-ui",
+    "url": "https://github.com/gonzalezreal/swift-markdown-ui",
+    "avatar": "https://github.com/gonzalezreal.png",
+    "description": "Display and customize Markdown text in SwiftUI"
+  },
+  {
+    "name": "ZIPFoundation",
+    "url": "https://github.com/weichsel/ZIPFoundation",
+    "avatar": "https://github.com/weichsel.png",
+    "description": "Effortless ZIP Handling in Swift"
+  }
+]
+
